@@ -381,3 +381,5 @@ zict @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zict_1699
 zipp @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zipp_1707361439201/work
 zope.interface @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zope.interface_1699251096669/work
 zstandard @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2bqnms2ngq/croot/zstandard_1728569218033/work
+pysqlite3-binary
+chromadb==0.6.3
